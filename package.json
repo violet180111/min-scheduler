@@ -1,0 +1,24 @@
+{
+  "name": "min-scheduler",
+  "version": "1.0.0",
+  "description": "min react scheduler ! ! !",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "vite",
+    "test": "vitest",
+    "build": "tsup",
+    "build:watch": "tsup --watch"
+  },
+  "keywords": [],
+  "author": "violet180111",
+  "license": "ISC",
+  "devDependencies": {
+    "tsup": "^8.0.1",
+    "typescript": "^5.3.3",
+    "vite": "^5.0.10",
+    "vitest": "^1.1.0"
+  },
+  "dependencies": {
+    "@types/node": "20"
+  }
+}
